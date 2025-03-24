@@ -35,6 +35,9 @@
 -Movie image cdn url
 -Make browser page amazing with tailwind css
 -Usepopular custom hooks
+-GPT search page
+-GPT search bar
+-multi language feature in app
 
 # Features
 
